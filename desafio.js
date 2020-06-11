@@ -186,4 +186,3 @@
         cidade
     };
  */
-"use strict";
