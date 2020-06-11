@@ -39,6 +39,10 @@ function mostraNome({ nome, idade }) {
 mostraNome(usuario);
 */
 
+
+
+// Rest/Spread
+/*
 const usuario = {
     nome: "Doido",
     idade: 25,
@@ -67,3 +71,6 @@ const usuario1 = {
 const usuario2 = { ...usuario1, nome: "Doido" };
 
 console.log(usuario2);
+*/
+
+ 
